@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="main" type="Dart" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
